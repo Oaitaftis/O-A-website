@@ -1,1 +1,4 @@
-index.html` `styles.css` `assets/` folder
+index.html
+styles.css
+`assets/`
+folder
